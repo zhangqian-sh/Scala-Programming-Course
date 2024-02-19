@@ -1,3 +1,15 @@
+# project specific ignores
+temp/
+.DS_Store
+*.code-workspace
+*.zip
+.metals/
+.bloop/
+metals.sbt
+target/
+project/
+.scalafmt.conf
+
 *.class
 *.log
 
