@@ -9,6 +9,10 @@ metals.sbt
 target/
 project/
 .scalafmt.conf
+assignment.sbt
+build.sbt
+sbt.json
+test.worksheet.sc
 
 *.class
 *.log
